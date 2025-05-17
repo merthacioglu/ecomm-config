@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0.0
+
+loans:
+  message: "Welcome to EazyBank Loans Service"
+  contactDetails:
+    name: "Daphne Vicki - Developer"
+    email: "dvicki@eazybank.com"
+  onCallSupport:
+    - (567) 204-8204
+    - (934) 467-3378

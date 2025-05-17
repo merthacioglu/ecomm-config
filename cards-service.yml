@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0.0
+
+cards:
+  message: "Welcome to EazyBank Card Service"
+  contactDetails:
+    name: "Gregory Gonzalez - Developer"
+    email: "ggonzalez@eazybank.com"
+  onCallSupport:
+    - (555) 182-8763
+    - (555) 182-8764

@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0
+
+loans:
+  message: "Welcome to EazyBank Loans Service Related Prod APIs"
+  contactDetails:
+    name: "Kairos Destina - Product Owner"
+    email: "cdestina@eazybank.com"
+  onCallSupport:
+    - (342) 673-5838
+    - (214) 092-5674

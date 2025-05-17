@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0.0
+
+cards:
+  message: "Welcome to EazyBank Cards Service Related QA APIs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "sray@eazybank.com"
+  onCallSupport:
+    - (555) 3240-9323
+    - (555) 3240-9324

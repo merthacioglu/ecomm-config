@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0.0
+
+cards:
+  message: "Welcome to EazyBank Cards Service Related Prod APIs"
+  contactDetails:
+    name: "Sebastian Linello - Product Owner"
+    email: "slinello@eazybank.com"
+  onCallSupport:
+    - (555) 353-3126
+    - (555) 7985-8341

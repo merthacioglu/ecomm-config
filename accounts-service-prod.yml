@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0.0
+
+accounts:
+  message: "Welcome to EazyBank Related Prod APIs"
+  contactDetails:
+    name: "Yves-Francois Laroche - Product Owner"
+    email: "yflaroche@eazybank.com"
+  onCallSupport:
+    - (555) 353-3126
+    - (555) 7985-8341
