@@ -5,8 +5,8 @@ build:
 accounts:
   message: "Welcome to EazyBank Related Production APIs"
   contactDetails:
-    name: "Yves-Francois Laroche - Product Owner"
-    email: "yflaroche@eazybank.com"
+    name: "Simon Mindall - Product Owner"
+    email: "smindall@eazybank.com"
   onCallSupport:
-    - (555) 353-3126
-    - (555) 7985-8341
+    - (509) 332-7723
+    - (555) 350-2185
