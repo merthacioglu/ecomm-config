@@ -3,7 +3,7 @@ build:
   version: 1.0.0
 
 cards:
-  message: "Welcome to EazyBank's Cards Service Related prod APIs!"
+  message: "Welcome to EazyBank's Cards Service Related prod APIs! from docker!"
   contactDetails:
     name: "Augustus Parmelli - Product Owner"
     email: "aparmelli@eazybank.com"
