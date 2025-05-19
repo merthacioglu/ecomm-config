@@ -3,7 +3,7 @@ build:
   version: 3.0.0
 
 accounts:
-  message: "Welcome to EazyBank Account Service"
+  message: "Welcome to EazyBank Account Service from default profile!"
   contactDetails:
     name: "Mert Hacioglu"
     email: "{cipher}2241d6dab24d55a3f94043ae3bdcd1d9a92c40319d99c7be73da16bbc8bdeb07c8e40de358ee8bd6edd175b09f6e9746"
