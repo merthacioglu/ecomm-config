@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 loans:
-  message: "One step forward and one step back, everybody nows how to clap clap clap!"
+  message: "Welcome to the Loans Service Production Related APIs!"
   contactDetails:
     name: "Kairos Destina - Product Owner"
     email: "cdestina@eazybank.com"
