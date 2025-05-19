@@ -5,8 +5,8 @@ build:
 accounts:
   message: "Welcome to EazyBank Production Server APIs"
   contactDetails:
-    name: "Simon Mindall - Product Owner"
-    email: "smindall@eazybank.com"
+    name: "Simon Richardson - Product Owner"
+    email: "srichardson@eazybank.com"
   onCallSupport:
     - (509) 332-7723
     - (555) 350-2185
