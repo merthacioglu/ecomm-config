@@ -3,7 +3,7 @@ build:
   version: 1.0.0
 
 accounts:
-  message: "Welcome to EazyBank Production APIs"
+  message: "Welcome to EazyBank Prod! APIs"
   contactDetails:
     name: "Simon Mindall - Product Owner"
     email: "smindall@eazybank.com"
