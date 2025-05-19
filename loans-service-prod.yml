@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 loans:
-  message: "Fuck off!"
+  message: "Welcome to Loans Server Production APIs!"
   contactDetails:
     name: "Kairos Destina - Product Owner"
     email: "cdestina@eazybank.com"
