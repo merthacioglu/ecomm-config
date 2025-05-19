@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 loans:
-  message: "Welcome to the Loans Service Production Related APIs!"
+  message: "Welcome to the Loans Service's Production Related APIs!"
   contactDetails:
     name: "Kairos Destina - Product Owner"
     email: "cdestina@eazybank.com"
