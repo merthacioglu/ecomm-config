@@ -3,7 +3,7 @@ build:
   version: 1.0.0
 
 cards:
-  message: "Welcome to EazyBank's Cards Service Related Production APIs!"
+  message: "Welcome to EazyBank's Cards Service Related webhook APIs!"
   contactDetails:
     name: "Augustus Parmelli - Product Owner"
     email: "aparmelli@eazybank.com"
